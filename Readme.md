@@ -54,10 +54,6 @@ During my internship at Prodigy InfoTech, I had the incredible opportunity to wo
 
 ## 📄 Official Documents
 
-### Internship Verification 📝
-
-### Internship Verification 📝
-
 #### Offer Letter:
 <img src="./Documents/Offer_Letter.png" alt="Offer Letter" width="400"/>
 
