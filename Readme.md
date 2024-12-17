@@ -54,10 +54,17 @@ During my internship at Prodigy InfoTech, I had the incredible opportunity to wo
 
 ## 📄 Official Documents
 
-### Internship Verification
-- [Offer Letter](/Documents/Offer_letter.png)
-- [Certificate of Completion](/Documents/Certificate.jpg)
-- [Letter of Recommendation](/Documents/letter_of_Recommendation.jpg)
+### Internship Verification 📝
+
+#### Offer Letter:
+![Offer Letter](./Documents/Offer_letter.png)
+
+#### Certificate of Completion:
+![Certificate of Completion](./Documents/Certificate.jpg)
+
+#### Letter of Recommendation:
+![Letter of Recommendation](./Documents/letter_of_Recommendation.jpg)
+
 
 ## 🛠 Technologies & Tools
 - Python
