@@ -101,7 +101,7 @@ pip install numpy pandas scikit-learn matplotlib
 
 ## Results
 
-- The model achieved an R-squared score of `0.XX` on the training data (replace with your result).
+- The model achieved an R-squared score of `0.6208` on the training data (replace with your result).
 - The predictions are saved in `PredictedPrice.csv`, containing only essential columns (`Id` and `SalePrice`).
 
 ## Dataset
